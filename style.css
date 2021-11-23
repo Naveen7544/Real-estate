@@ -299,7 +299,7 @@ header .icons #menu-bars{
     width:4rem;
     line-height: 4rem;
     text-align: center;
-    background:#030000;
+    background:rgb(236, 211, 211);
 }
 
 .featured .box-container .box .content .price a:hover{
